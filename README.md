@@ -37,7 +37,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dapxsumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dapxsumkbn@esm/index.mjs';
+import dapxsumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dapxsumkbn@v0.0.11-esm/index.mjs';
 ```
 
 #### dapxsumkbn( N, alpha, x, stride )
@@ -150,7 +150,7 @@ var v = dapxsumkbn.ndarray( N, 5.0, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dapxsumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dapxsumkbn@esm/index.mjs';
+import dapxsumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dapxsumkbn@v0.0.11-esm/index.mjs';
 
 var x;
 var i;
