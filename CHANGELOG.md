@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-07)
+## Unreleased (2025-03-02)
 
 <section class="features">
 
@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`ca7bf2d`](https://github.com/stdlib-js/stdlib/commit/ca7bf2d42bf8785f00754c838a855cc203f095e8) - **docs:** fix line wrapping _(by Athan Reines)_
 -   [`f9561f9`](https://github.com/stdlib-js/stdlib/commit/f9561f99cd606b6fd783ed2253a425c3bdddce4e) - **docs:** update related packages sections [(#5087)](https://github.com/stdlib-js/stdlib/pull/5087) _(by stdlib-bot)_
 -   [`3d9c97f`](https://github.com/stdlib-js/stdlib/commit/3d9c97f44999496954f47fac902e4d67aed03425) - **fix:** add `math/base/speical/abs` in manifest.json of `blas/ext/base/dapxsumkbn` [(#4732)](https://github.com/stdlib-js/stdlib/pull/4732) _(by Aayush Khanna)_
 -   [`563a4f8`](https://github.com/stdlib-js/stdlib/commit/563a4f826ab757636ae08094fc6f62746042da4b) - **docs:** update related packages sections [(#4594)](https://github.com/stdlib-js/stdlib/pull/4594) _(by stdlib-bot)_
