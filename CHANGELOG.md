@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-12-08)
 
 <section class="features">
 
@@ -36,6 +36,7 @@
 
 <details>
 
+-   [`1ad050f`](https://github.com/stdlib-js/stdlib/commit/1ad050f89071f72e94b72c56acbb0fb8c270f7bf) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dapxsumkbn` [(#8868)](https://github.com/stdlib-js/stdlib/pull/8868) _(by ashutoshsao)_
 -   [`c221279`](https://github.com/stdlib-js/stdlib/commit/c2212790b0118b7787b5e292244b4364c08ea05a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
 -   [`1ed8400`](https://github.com/stdlib-js/stdlib/commit/1ed8400db79e87f245a7ad7d80d942e420b82e60) - **refactor:** simplify implementation _(by Athan Reines)_
@@ -65,13 +66,14 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
 -   Snehil Shah
+-   ashutoshsao
 
 </section>
 
